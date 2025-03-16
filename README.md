@@ -33,7 +33,7 @@ The **RSA Algorithm (Rivest-Shamir-Adleman)** is a widely used public-key crypto
 ## 🔧 Installation & Usage
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rsa-algorithm.git
+git clone https://github.com/SE-MahmoudAbdelaal/RSA-Algorithm.git
 cd rsa-algorithm
 
 # Compile and run the program
